@@ -2,7 +2,7 @@
 
 # 🐢⚡ KAME
 
-### I build the things that keep an AI more powerful. Hope you like any of the public things:
+### I build the things that keep an AI more powerful. Hope you like :)
 
 [![Discord](https://img.shields.io/badge/discord-kame055856-5865F2.svg)](#-say-hello)
 [![License: MIT](https://img.shields.io/badge/everything-MIT-green.svg)](#)
