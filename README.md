@@ -2,13 +2,12 @@
 
 # 🐢⚡ KAME
 
-### I build the things that keep an AI agent running after the keys run out.
+### I build the things that keep an AI more powerful. Hope you like any of the public things:
 
 [![Discord](https://img.shields.io/badge/discord-kame055856-5865F2.svg)](#-say-hello)
 [![License: MIT](https://img.shields.io/badge/everything-MIT-green.svg)](#)
 [![Donate Bitcoin](https://img.shields.io/badge/donate-bitcoin-f7931a.svg)](#-support-the-work)
 
-*4P1 R0T4T10N — 4FRE3D0M*
 
 </div>
 
