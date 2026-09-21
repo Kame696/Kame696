@@ -24,8 +24,8 @@ One engine, one port per host, same version line on both.
 | | Repository | What it is |
 |---|---|---|
 | 🏠 | **[kame-api-rotation](https://github.com/Kame696/kame-api-rotation)** | The front door — what it does, which port to install, how they stay in step |
-| 🅰️ | **[kame-api-rotation-for-agent-zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero)** | The Agent Zero plugin. Verified on seven A0 versions across both majors |
-| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes plugin. 1416 tests, zero third-party packages |
+| 🅰️ | **[kame-api-rotation-for-agent-zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero)** | The Agent Zero plugin, 1.8.1.0 — verified in real sessions on Agent Zero v2.12 |
+| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes plugin, 1.8.1.0 — 2,829 tests, catalog security scan safe, zero third-party packages |
 
 **No provider allowlist anywhere in it.** Every decision is made on evidence in
 the response, never on who the provider is — so a provider that does not exist yet
