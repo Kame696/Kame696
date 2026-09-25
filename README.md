@@ -24,8 +24,8 @@ One engine, one port per host, same version line on both.
 | | Repository | What it is |
 |---|---|---|
 | 🏠 | **[kame-api-rotation](https://github.com/Kame696/kame-api-rotation)** | The front door — what it does, which port to install, how they stay in step |
-| 🅰️ | **[kame-api-rotation-for-agent-zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero)** | The Agent Zero plugin, **1.8.1.2** — ran in a real Agent Zero v2.12 session with real keys (12/12 answered) |
-| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes plugin, **1.8.1.2** — hours of real agent turns on the running Hermes gateway with Gemini and NVIDIA |
+| 🅰️ | **[kame-api-rotation-for-agent-zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero)** | The Agent Zero plugin, **1.8.1.6** — ran in a real Agent Zero v2.12 session with real keys (12/12 answered) |
+| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes plugin, **1.8.1.6** — real agent turns on the running Hermes gateway with Gemini and NVIDIA (16/16 answered) |
 
 **No provider allowlist anywhere in it.** Every decision is made on evidence in
 the response, never on who the provider is — so a provider that does not exist yet
