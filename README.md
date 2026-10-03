@@ -25,7 +25,7 @@ Shared rotation principles, native integration per host, independently verified 
 |---|---|---|
 | 🏠 | **[kame-api-rotation](https://github.com/Kame696/kame-api-rotation)** | The front door — what it does, which port to install, how they stay in step |
 | 🅰️ | **[kame-api-rotation-for-agent-zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero)** | The Agent Zero plugin, **[1.8.1.8](https://github.com/Kame696/kame-api-rotation-for-agent-zero/releases/tag/v1.8.1.8)** — clean lifecycle/native stops; 24 offline suites and remote native v2.12/v2.13 checks, all 14 CI jobs passed |
-| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes plugin, **[1.8.1.8](https://github.com/Kame696/kame-api-rotation-for-hermes/releases/tag/v1.8.1.8)** — serial continuity, independent profiles and snapshot cache; 3,133 public tests passed, all 9 CI jobs passed |
+| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes plugin, **[1.8.1.8](https://github.com/Kame696/kame-api-rotation-for-hermes/releases/tag/v1.8.1.8)** — serial continuity, independent profiles and snapshot cache; all 9 CI jobs passed (3,132-3,136 tests per job; platform-specific skips) |
 
 Release-specific evidence, limits and complete version history live in each port's [Agent Zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero/blob/main/VALIDATION.md) / [Hermes](https://github.com/Kame696/kame-api-rotation-for-hermes/blob/main/VALIDATION.md) documentation. Native transport fixtures are not new live-provider guarantees.
 
