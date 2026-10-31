@@ -23,14 +23,14 @@ your provider is busy. Your agent keeps going.
 | | Repository | What it is |
 |---|---|---|
 | 🏠 | **[kame-api-rotation](https://github.com/Kame696/kame-api-rotation)** | Start here: what KAME does and which port to install |
-| 🅰️ | **[kame-api-rotation-for-agent-zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero)** | The Agent Zero plugin — **[v1.8.2.8](https://github.com/Kame696/kame-api-rotation-for-agent-zero/releases/latest)** |
-| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes Agent plugin — **[v1.8.2.8](https://github.com/Kame696/kame-api-rotation-for-hermes/releases/latest)** |
+| 🅰️ | **[kame-api-rotation-for-agent-zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero)** | The Agent Zero plugin — **[v1.8.3.1](https://github.com/Kame696/kame-api-rotation-for-agent-zero/releases/latest)** |
+| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes Agent plugin — **[v1.8.3.1](https://github.com/Kame696/kame-api-rotation-for-hermes/releases/latest)** |
 
 **What you get, on both:**
 
 - ⚡ **Every key used.** The least-loaded healthy key per call; a refused call moves to the next key at once.
 - 🧠 **Every error read, never guessed.** The provider's own retry time, per-minute vs daily quota, out-of-credit, a revoked key — 82 providers learned from their own documentation.
-- 🔀 **Your fallback models, one big pool.** Every reply starts on your best model; a busy, spent or slow one hands the reply to the next model of your list in seconds.
+- 🔀 **Your fallback models, one big pool.** Every reply starts on the model you picked; a busy, spent or slow one hands the reply on in seconds - to your main model, then the rest of your list.
 - 🏎️ **Speed first.** A late reply races a backup key, then the next model — the first to answer is shown; a cut answer is continued, not restarted. Median reply on a bad Gemini day: 2.6 s.
 - 👀 **You see what happened.** Which model answered each reply and how long it took; a live panel with every key, every rest, every switch.
 - 🔒 **Free, MIT, no telemetry.** Keys never leave your machine and never appear in a log.
