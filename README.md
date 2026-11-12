@@ -23,8 +23,8 @@ your provider is busy. Your agent keeps going.
 | | Repository | What it is |
 |---|---|---|
 | 🏠 | **[kame-api-rotation](https://github.com/Kame696/kame-api-rotation)** | Start here: what KAME does and which port to install |
-| 🅰️ | **[kame-api-rotation-for-agent-zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero)** | The Agent Zero plugin — **[v1.8.4.1](https://github.com/Kame696/kame-api-rotation-for-agent-zero/releases/latest)** |
-| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes Agent plugin — **[v1.8.4.1](https://github.com/Kame696/kame-api-rotation-for-hermes/releases/latest)** |
+| 🅰️ | **[kame-api-rotation-for-agent-zero](https://github.com/Kame696/kame-api-rotation-for-agent-zero)** | The Agent Zero plugin — **[v1.8.4.2](https://github.com/Kame696/kame-api-rotation-for-agent-zero/releases/latest)** |
+| 🅷 | **[kame-api-rotation-for-hermes](https://github.com/Kame696/kame-api-rotation-for-hermes)** | The Hermes Agent plugin — **[v1.8.4.2](https://github.com/Kame696/kame-api-rotation-for-hermes/releases/latest)** |
 
 **What you get, on both:**
 
